@@ -27,32 +27,7 @@ This project delivers a full-stack data analytics solution on a real-world Pakis
 
 ---
 
-## 📁 Project Structure
 
-```
-pakistan-ecommerce-sales-engine/
-│
-├── data/
-│   ├── raw/                   # Original source CSV files
-│   └── processed/             # Cleaned & transformed datasets
-│
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb         # ETL & preprocessing
-│   ├── 02_exploratory_analysis.ipynb  # EDA & pattern discovery
-│   └── 03_star_schema_design.ipynb    # Database modeling
-│
-├── sql/
-│   ├── schema.sql             # Star schema DDL
-│   └── queries.sql            # Key analytical queries
-│
-├── dashboard/
-│   └── sales_dashboard.pbix   # Power BI report file
-│
-├── assets/
-│   └── dashboard_preview.png  # Dashboard screenshot
-│
-└── README.md
-```
 
 ---
 
