@@ -67,7 +67,7 @@ Categories like **Soghaat, Books, Health & Sports**, and **Beauty & Grooming** s
 
 ## 📸 Dashboard Preview
 
-![Executive Sales Performance Dashboard](salesPerformance.pdf)
+![Executive Sales Performance Dashboard](dashboard.png)
 
 > **Dashboard Features:** Total Revenue KPI (4.99bn PKR) · Total Orders (585K) · Avg Order Value (8.53K PKR) · Revenue by Category · Time-Series Revenue Trend · Order Status Breakdown · Fulfillment % by Category · Filters by Payment Method & Year
 
